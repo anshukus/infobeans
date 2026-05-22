@@ -1,2 +1,2 @@
 # infobeans
-i love python
+ALL codes of python .
